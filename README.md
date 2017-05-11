@@ -10,4 +10,7 @@ Har med det følgende fra pensum :
 - Iterator
 - Collections
 - Streams
+- Arv
+- Abstrakte klasser
+- Interfaces
 
